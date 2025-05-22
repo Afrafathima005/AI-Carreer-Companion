@@ -1,0 +1,5 @@
+
+project_id = "bzfhbugqnlxskheaudqc"
+
+[functions.ai-career-assistant]
+verify_jwt = false
